@@ -33,4 +33,6 @@ These R packages need to be installed in order to run the analysis script:
 
 `setwd("PDO_BME_EKGel") # set to path of cloned project in your machine`
 
-- Included in the project are the RNAseq processed data for all PDOs clutured in different mediums, "Data/UHN_BR_PDOs_hg38_kallisto_mixed.rda", and the REACTOME genesets used for the pathway analysis, "Data/c2.cp.reactome.v7.4.symbols.gmt".
+- Included in the project are:
+1- RNAseq processed data for all PDOs clutured in different mediums, `Data/UHN_BR_PDOs_hg38_kallisto_mixed.rda`.
+2- REACTOME genesets used for the pathway analysis, `Data/c2.cp.reactome.v7.4.symbols.gmt`.
